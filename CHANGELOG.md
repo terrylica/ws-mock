@@ -1,3 +1,7 @@
+### v0.5.0
+
+- Update tokio-tungstenite to 0.29.0
+
 ### v0.4.0
 
 - Update Rust Edition to 2024
